@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7994
     wikipedia: http://en.wikipedia.org/wiki/Charles_Bean
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18390#Letters-from-France
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2006-05-14'
 gutenberg_type: Text
